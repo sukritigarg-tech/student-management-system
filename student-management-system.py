@@ -1,4 +1,3 @@
-
 import os
 
 FILE_NAME = "student.txt"
